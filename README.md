@@ -3,4 +3,4 @@ In this project my aim is to build a supervised machine learning model able to c
 
 Made During a Headstart Course at Sheffield University 
 
-See .ipbny file for more
+See .ipynb file for more
